@@ -3,8 +3,10 @@
 #busybox:1.35.0
 #redis:7.2.5
 #jumpserver/jms_all:v3.10.10
-mariadb:10.6
-
+#mariadb:10.6
+docker.io/calico/cni:v3.28.0
+docker.io/calico/node:v3.28.0
+docker.io/calico/kube-controllers:v3.28.0
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
